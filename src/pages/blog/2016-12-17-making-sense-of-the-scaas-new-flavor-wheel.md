@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Why JavaScript?
-date: 2016-12-17T15:04:10.000Z
+date: 2019-10-28T15:04:10.000Z
 description: >-
   JavaScript is one of the most widely used programming languages ​​in the world
   and one of the fastest growing.
