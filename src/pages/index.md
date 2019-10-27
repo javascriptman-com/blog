@@ -24,13 +24,13 @@ main:
   heading: .
   description: .
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: .
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: .
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: .
     image: /img/products-grid1.jpg
 ---
 
